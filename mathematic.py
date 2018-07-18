@@ -1,0 +1,9 @@
+class Mathematic():
+    def add(a, b):
+        return a+b
+    def delete(a, b):
+        return a-b    
+    def divide(a, b):
+        return a/b
+    def multiply(a, b):
+        return a*b      
